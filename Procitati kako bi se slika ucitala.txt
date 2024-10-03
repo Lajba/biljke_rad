@@ -1,5 +1,7 @@
+########################################################################################## Slika
 Linija koda 26 i 607 unutar main.py datoteke -> 26. background_image = Image.open(r'C:\Users\Wermacht\Desktop\Python\MOJI KODOVI\Labak zavrsni seminar\pozadina2.png')
 					       607. background_image = Image.open(r'C:\Users\Wermacht\Desktop\Python\MOJI KODOVI\Labak zavrsni seminar\pozadina.png')
 treba promjeniti liniju unutar zagrade (r'____________________________________') sa odgovarajucim mjestom gdje se vama nalazi trenutno slika na racunalu. (Copy path slike i paste)
-
-
+########################################################################################### Prijava
+Prijava putem admina --> Korisnik : admin 
+		          Lozinka : admin
